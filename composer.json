@@ -2,7 +2,7 @@
   "name": "sickdaflip/manadev_layered_nav_seo_plus",
   "type": "magento-module",
   "license": "MIT",
-  "description": "19.01.2920",
+  "description": "19.0.2920",
   "authors": [
     {
       "name": "SickDaFlip",
@@ -46,10 +46,6 @@
       [
         "app/etc/modules/*.xml",
         "app/etc/modules/"
-      ],
-      [
-        "app/locale/de_DE/*",
-        "app/locale/de_DE/"
       ],
       [
         "app/locale/en_US/*",
